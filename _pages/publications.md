@@ -12,7 +12,7 @@ author_profile: true
 
 - Yue Sun, Shichao Lv, Jianzhou You, Yuyan Sun, Xin Chen, **Yaowen Zheng**, Limin Sun. IPSpex: Enabling Efficient Fuzzing via Specification Extraction on ICS Protocol, in International Conference on Applied Cryptography and Network Security (ACNS), 2022.
 
-- Dongliang Fang, Zhanwei Song, Le Guan, Puzhuo Liu, Anni Peng, Kai Cheng, **Yaowen Zheng**, Peng Liu, Hongsong Zhu and Limin Sun. ICS3Fuzzer: A Framework for Discovering Protocol Implementation Bugs in ICS Supervisory Software by Fuzzing, in Annual Computer Security Applications Conference, December 2021. 
+- Dongliang Fang, Zhanwei Song, Le Guan, Puzhuo Liu, Anni Peng, Kai Cheng, **Yaowen Zheng**, Peng Liu, Hongsong Zhu and Limin Sun. ICS3Fuzzer: A Framework for Discovering Protocol Implementation Bugs in ICS Supervisory Software by Fuzzing, in Annual Computer Security Applications Conference ((ACSAC), December 2021. 
 
 - Kai Cheng, Dongliang Fang, Chuan Qin, Huizhao Wang, **Yaowen Zheng**, Nan Yu, Limin Sun, Automatic Inference of Taint Sources to Discover Vulnerabilities in SOHO Router Firmware, in ICT Systems Security and Privacy Protection, 2021.
 
