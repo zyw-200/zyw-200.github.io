@@ -5,13 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
+## Publications
+------
 **Yaowen Zheng**, Yuekang Li, Cen Zhang, Hongsong Zhu, Yang Liu, Limin Sun. Efficient Greybox Fuzzing of Applications in Linux-based IoT Devices via Enhanced User-mode Emulation, in Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2022.
 Wei Zhou, Chen Cao, Dongdong Huo, Kai Cheng, Lan Zhang, Le Guan, Tao Liu, **Yaowen Zheng**, Yuqing Zhang, Limin Sun, Yazhe Wang, Peng Liu: Logic Bugs in IoT Platforms and Systems: A Review.
 Puzhuo Liu, **Yaowen Zheng**, Zhanwei Song, Dongliang Fang, Shichao Lv and Limin Sun. Fuzzing proprietary protocols of programmable controllers to find vulnerabilities that affect physical control, in Journal of Systems Architecture, 2022.
@@ -25,3 +20,4 @@ Wei Zhou, Chen Cao, Dongdong Huo, Kai Cheng, Lan Zhang, Le Guan, Tao Liu, Yan Ji
 **Yaowen Zheng**, Kai Cheng, Zhi Li, Shiran Pan, Hongsong Zhu, and Limin Sun. A Lightweight Method for Accelerating Discovery of Taint-Style Vulnerabilities in Embedded Systems. In Proceedings of the 18th International Conference on Information and Communications Security(ICICS'16), December 2016.
 **Yaowen Zheng**, Hong Li, Zhiqiang Shi, and Limin Sun. Security of Cyber Physical System. In Proceedings of the 8th China Conference on Wireless Sensor Networks(CWSN'14), November 2014.
 Kai Cheng, Qiang Li, Lei Wang, Qian Chen, **Yaowen Zheng**, Limin Sun, Zhenkai Liang. Detecting the Taint-Style Vulnerability in Embedded Device Firmware,  IEEE/IFIP International Conference on Dependable Systems and Networks(DSN'18), June 2018.
+------
