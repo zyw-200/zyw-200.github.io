@@ -32,4 +32,5 @@ Wei Zhou, Chen Cao, Dongdong Huo, Kai Cheng, Lan Zhang, Le Guan, Tao Liu, Yan Ji
 **Yaowen Zheng**, Hong Li, Zhiqiang Shi, and Limin Sun. Security of Cyber Physical System. In Proceedings of the 8th China Conference on Wireless Sensor Networks(CWSN'14), November 2014.
 
 Kai Cheng, Qiang Li, Lei Wang, Qian Chen, **Yaowen Zheng**, Limin Sun, Zhenkai Liang. Detecting the Taint-Style Vulnerability in Embedded Device Firmware,  IEEE/IFIP International Conference on Dependable Systems and Networks(DSN'18), June 2018.
+
 ------
