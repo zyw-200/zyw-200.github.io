@@ -10,10 +10,15 @@ redirect_from:
 Education
 ======
 * Ph.D. (Sept 2013 - Jan 2020). 
+
   Institute of Information Engineering, University of Chinese Academy of Sciences.
+  
 * Visiting Scholar (Oct 2017 - Oct 2018). 
+
   Department of Computer Science and Engineering, University of California, Riverside 
+
 * B.S. (Sept 2009 - July 2013). 
+
   School of Computer Science, Sichuan University.
 
 Work Experience
