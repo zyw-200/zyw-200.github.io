@@ -18,7 +18,7 @@ author_profile: true
 
 - Wei Zhou, Chen Cao, Dongdong Huo, Kai Cheng, Lan Zhang, Le Guan, Tao Liu, Yan Jia, **Yaowen Zheng**, Yuqing Zhang, Limin Sun, Yazhe Wang, Peng Liu. Reviewing IoT Security via Logic Bugs in IoT Platforms and Systems. In IEEE Internet of Things Journal, February 2021.
 
-陈千,程凯,**郑尧文**,朱红松,孙利民, 函数级数据依赖图及其在静态脆弱性分析中的应用.软件学报, 2020.
+- 陈千,程凯,**郑尧文**,朱红松,孙利民, 函数级数据依赖图及其在静态脆弱性分析中的应用.软件学报, 2020.
 
 - **Yaowen Zheng**, Ali Davanian, Heng Yin, Chengyu Song, Hongsong Zhu, Limin Sun, “FIRM-AFL: High-throughput greybox fuzzing of IoT firmware via augmented process emulation,” in USENIX Security Symposium, 2019.
 
