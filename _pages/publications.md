@@ -31,7 +31,7 @@ author_profile: true
 
 - **Yaowen Zheng**, Zhanwei Song, Yuyan Sun, Kai Cheng, Hongsong Zhu, and Limin Sun. An Efficient Greybox Fuzzing Scheme for Linux-based IoT Programs Through Binary Static Analysis. In Proceedings of 38th International Performance Computing and Communications Conference (IPCCC'19), Octobor 2019.
 
-- **郑尧文**,文辉,程凯,宋站威,朱红松,孙利民,物联网设备漏洞挖掘技术研究综述. 信息安全学报2019年第五期.
+- **Yaowen Zheng**, Hui Wen, Kai Cheng, Zhanwei Song, Hongsong Zhu, Limin Sun, A Survey of IoT Device Vulnerability Mining Techniques. Journal of Cyber Security, 2019.
 
 - Kai Cheng, Qiang Li, Lei Wang, Qian Chen, **Yaowen Zheng**, Limin Sun, Zhenkai Liang. Detecting the Taint-Style Vulnerability in Embedded Device Firmware,  IEEE/IFIP International Conference on Dependable Systems and Networks(DSN'18), June 2018.
 
