@@ -30,7 +30,7 @@ author_profile: true
 Before 2020
 - Qian Chen, Kai Cheng, **Yaowen Zheng**, Hongsong Zhu, Limin Sun. Function-level Data Dependence Graph and its Application in Static Vulnerability Analysis. Journal of Software, 2020.
  
-- **Yaowen Zheng**, Ali Davanian, Heng Yin, Chengyu Song, Hongsong Zhu, Limin Sun, “FIRM-AFL: High-throughput greybox fuzzing of IoT firmware via augmented process emulation,” in USENIX Security Symposium, 2019.
+- **Yaowen Zheng**, Ali Davanian, Heng Yin, Chengyu Song, Hongsong Zhu, Limin Sun. FIRM-AFL: High-throughput greybox fuzzing of IoT firmware via augmented process emulation. In USENIX Security Symposium, 2019.
 
 - **Yaowen Zheng**, Zhanwei Song, Yuyan Sun, Kai Cheng, Hongsong Zhu, and Limin Sun. An Efficient Greybox Fuzzing Scheme for Linux-based IoT Programs Through Binary Static Analysis. In Proceedings of 38th International Performance Computing and Communications Conference (IPCCC'19), Octobor 2019.
 
