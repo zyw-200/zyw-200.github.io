@@ -12,9 +12,9 @@ About Me
 =======
 I am currently a research fellow at Nanyang Technological University, under the supervision of Prof. [Liu Yang](https://personal.ntu.edu.sg/yangliu/).
 I received the Ph.D. in cyberspace security from University of Chinese Academy of Sciences in 2020, under the supervision of Prof. [Limin Sun](https://baike.baidu.com/item/%E5%AD%99%E5%88%A9%E6%B0%91/4582419).
-During the period from 2017 to 2018, I also visited University of California, Riverside, under the supervision of Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/)
+During the period from 2017 to 2018, I also visited University of California, Riverside, under the supervision of Prof. [Heng Yin](https://www.cs.ucr.edu/~heng/).
 
-My research interests are related to system security. In particular, I am currenty focusing on vulnerability analysis techniques for IoT system and firmware including both static analysis techniques such as taint analysis, as well as dynamic techniques like emulation-based fuzzing.
+My research interests are related to system security. In particular, I am currenty working on vulnerability analysis techniques for IoT system and firmware including both static analysis techniques such as taint analysis, as well as dynamic techniques like emulation-based fuzzing.
 
 
 News
