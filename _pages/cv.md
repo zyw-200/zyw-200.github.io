@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,9 +33,4 @@ Work Experience
  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AFL, IDA pro, Binnavi, Angr, DECAF, Metasploit, OllyDbg, Nmap, Binwalk, etc.
