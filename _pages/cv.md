@@ -23,14 +23,19 @@ Education
 
 Work Experience
 ======
-* Research Fellow (Dec 2020 -). 
+* Professor (Dec 2024 - )
 
-  Continental-NTU Corporate Lab, Nanyang Technological University, Singapore
+  Institute of Information Engineering, Chinese Academy of Sciences.
 
-* Research and Development Engineer (Aug 2020 - Dec 2020). 
+* Associate Professor (Mar 2024 - Dec 2024)
 
-  Institute of Information Engineering, Chinese Academy of Sciences
+  Institute of Information Engineering, Chinese Academy of Sciences.
+
+* Research Fellow (Dec 2020 - Mar 2024). 
+
+  Continental-NTU Corporate Lab, Nanyang Technological University, Singapore.
+
  
-Skills
+<!-- Skills
 ======
-* AFL, IDA pro, Binnavi, Angr, DECAF, Metasploit, OllyDbg, Nmap, Binwalk, etc.
+* AFL, IDA pro, Binnavi, Angr, DECAF, Metasploit, OllyDbg, Nmap, Binwalk, etc. -->
