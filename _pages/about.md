@@ -20,7 +20,7 @@ My research interests are related to system security. In particular, I am curren
 
 # Publications
 
-* **[TOSEM-24]** Puzhuo Liu, Chengnian Sun, **Yaowen Zheng**, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, Peng Di, Yu Jiang, Limin Sun. LLM-Powered Static Binary Taint Analysis. ACM Transactions on Software Engineering and Methodology, 2025 (CCF-A).
+* **[TOSEM-25]** Puzhuo Liu, Chengnian Sun, **Yaowen Zheng**, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, Peng Di, Yu Jiang, Limin Sun. LLM-Powered Static Binary Taint Analysis. ACM Transactions on Software Engineering and Methodology, 2025 (CCF-A).
 
 * **[VMCAI-25]** Yuncheng Wang, Puzhuo Liu, **Yaowen Zheng**, Dongliang Fang, Zhiwen Pan, Shuaizong Si, Weidong Zhang and Limin Sun, Automated Flaw Detection for Industrial Robot RESTful Service. International Conference on Verification, Model Checking and Abstract Interpretation, 2025 (CCF-B).
 
